@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+DiscordBot/Properties/Resources.resx
+DiscordBot/Properties/Resources.resx
+DiscordBot/Properties/Resources.Designer.cs
